@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://besanh.github.io/anhle_api](https://besanh.github.io/anhle_api)
 
-- 💬 Ask me about **Golang, Postgre, Elasticsearch, Redis**
+- 💬 Ask me about **Golang, Postgre, Elasticsearch, Redis, RabbitMQ**
 
 - 📫 How to reach me **anhle3532@gmail.com**
 
