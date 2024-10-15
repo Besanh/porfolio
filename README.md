@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Tuan Anh</h1>
 <h3 align="center">A passionate backend developer from Viet Nam</h3>
 
-- 🔭 I’m currently working on **CRM, Chat Integration**
+- 🔭 I'm a Senior Backend Engineer with over 5 years. Currently, I'm actively seeking new opportunities as a Senior Backend Developer. If you're interested in learning more about my qualifications, please feel free to contact me. Thank you.
+
+- 🔭 I’m currently working on **Golang, CRM, Chat Integration**
 
 - 🌱 I’m currently learning **CI/CD, Docker,...**
 
 - 📝 I regularly write articles on [https://besanh.github.io/anhle_api](https://besanh.github.io/anhle_api)
 
-- 💬 Ask me about **Golang, Postgre, Elasticsearch, Redis, RabbitMQ**
+- 💬 Ask me about **Golang, PostgreSQL, MySQL, Elasticsearch, MongoDB, Redis, RabbitMQ, Svelte, Linux**
 
 - 📫 How to reach me **anhle3532@gmail.com**
 
